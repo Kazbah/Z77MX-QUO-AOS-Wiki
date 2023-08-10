@@ -72,20 +72,20 @@ OS X/LINUX
  Firmware
 -----------
 
-*   [Official](https://web.archive.org/web/20220529043445/http://quocomputer.com/projectq/technical/)
-    *   [F3A Mirror](https://web.archive.org/web/20220529043445/https://www.dropbox.com/s/1z82t4kupg1hbo9/Z77MXQUOAOS.F3A) (7/17/13)
-    *   [F2N Mirror](https://web.archive.org/web/20220529043445/https://www.dropbox.com/s/9ts0oeet0xhemsx/Z77MXQUOAOS.F2N) (7/5/13)
-*   [Third Party GitHub Repo](https://web.archive.org/web/20220529043445/https://github.com/tuxuser/OzmosisBIOS)
-*   [Third Party](https://web.archive.org/web/20220529043445/https://mrq7bqbfgwmjzd5m.tor2web.org/) (Supports Vanilla OS X installation)
-    *   [H20.167X-MASS](https://web.archive.org/web/20220529043445/https://pastebin.com/38G6mkSA)
-    *   [H2N.OZ1669M Mirror](https://web.archive.org/web/20220529043445/https://drive.google.com/uc?id=0B_sTfBTpTiGwb3J6cXJHUmxiY2c)
+*   [Official]()
+    *   [F3A Mirror](https://www.dropbox.com/s/1z82t4kupg1hbo9/Z77MXQUOAOS.F3A) (7/17/13)
+    *   [F2N Mirror](https://www.dropbox.com/s/9ts0oeet0xhemsx/Z77MXQUOAOS.F2N) (7/5/13)
+*   [Third Party GitHub Repo](https://github.com/tuxuser/OzmosisBIOS)
+*   [Third Party](https://mrq7bqbfgwmjzd5m.tor2web.org/) (Supports Vanilla OS X installation)
+    *   [H20.167X-MASS](https://pastebin.com/38G6mkSA)
+    *   [H2N.OZ1669M Mirror](https://drive.google.com/uc?id=0B_sTfBTpTiGwb3J6cXJHUmxiY2c)
         *   Fixed All reported bugs
         *   Added RAID and El Capitan support
         *   Updated CPU MicroCode SandyBridge 6A7-29/IvyBridge 6A9-1B
         *   Updated OROM/EFI IRST RAID for SATA - v14.6.0.2285
         *   Updated EFI GOP Driver IvyBridge - 3.0.1027 / SandyBridge - 2.0.1024
         *   Updated HermitShell with SETVAR application/fixed BCFG application
-    *   [H3C.1479 Mirror](https://web.archive.org/web/20220529043445/https://www.dropbox.com/s/up7o5kti7r238lm/Z77MXQUOAOS.H3C.1479.ROM)
+    *   [H3C.1479 Mirror](https://www.dropbox.com/s/up7o5kti7r238lm/Z77MXQUOAOS.H3C.1479.ROM)
         *   Added ASM1062 controller driver support (It can be found on various PCIe and Thunderbolt SATA adapters)
         *   Added LpcSensors/CpuSensors/GpuSensors version 6.0.1290.
         *   Added OpalSecurity support(needs testing)
@@ -98,13 +98,13 @@ OS X/LINUX
         *   Updated ACPI USB and Wifi support.
         *   Updated AHCI drivers with latest from AMI.
         *   Updated Intel RSTe SATA ROM and UEFI driver to V13.1.0.2030
-    *   [H3B.894M Mirror](https://web.archive.org/web/20220529043445/https://www.dropbox.com/s/73byjb5ztr3qc6x/Z77MXQUOAOS.H3B.894M.ROM)
+    *   [H3B.894M Mirror](https://www.dropbox.com/s/73byjb5ztr3qc6x/Z77MXQUOAOS.H3B.894M.ROM)
         *   Refactored nVidia device injector, added HDMI/DP audio support.
         *   Set BIOS Features/Display Boot Option ROM Control to Legacy only by default.
         *   Set BIOS Features/Boot Mode Selection to UEFI only by default.
         *   Restored "Windows Boot Manager" detection to fix Startup Disk preference pane selection.
         *   Ensure 'MLB' variable >= 17 digits, pad BaseBoardSerial with digits generated from UUID when needed.
-    *   [H3A.828M Mirror](https://web.archive.org/web/20220529043445/https://www.dropbox.com/s/ql4mgidpke9cy3y/Z77MXQUOAOS.H3A.828M.ROM)
+    *   [H3A.828M Mirror](https://www.dropbox.com/s/ql4mgidpke9cy3y/Z77MXQUOAOS.H3A.828M.ROM)
         *   Changed IGPU Fixed Memory Size from 64M to 32M to match the framebuffer.
         *   Changed TB PCIe Cache-Line Size from 32 to 64
         *   Use subsystemid when custom framebuffer for ATI cards is chosen.
@@ -112,21 +112,21 @@ OS X/LINUX
         *   Fix nVidia VBIOS version read on desktop ROMs
         *   Fix for nVidia cards when they are not posted
         *   Fix loading injector.kext from Fv.
-    *   [H3A.820M Mirror](https://web.archive.org/web/20220529043445/https://www.dropbox.com/s/bb7hyn70h17q1nd/Z77MXQUOAOS.H3A.820M.ROM)
+    *   [H3A.820M Mirror](https://www.dropbox.com/s/bb7hyn70h17q1nd/Z77MXQUOAOS.H3A.820M.ROM)
         *   Fix for Maverick installer. Update ATI Card List.
-    *   [H3A.816M Mirror](https://web.archive.org/web/20220529043445/https://www.dropbox.com/s/4z7ksoeownqx3xe/Z77MXQUOAOS.H3A.816M.ROM)
+    *   [H3A.816M Mirror](https://www.dropbox.com/s/4z7ksoeownqx3xe/Z77MXQUOAOS.H3A.816M.ROM)
         *   Fix loading SSDT table overrides.
-    *   [H3A.801M Mirror](https://web.archive.org/web/20220529043445/https://www.dropbox.com/s/ermdt1xohguox3b/Z77MXQUOAOS.H3A.801M.ROM)
+    *   [H3A.801M Mirror](https://www.dropbox.com/s/ermdt1xohguox3b/Z77MXQUOAOS.H3A.801M.ROM)
         *   10.8.5 audio distortion fixed.
-    *   [H3A.739M Mirror](https://web.archive.org/web/20220529043445/https://www.dropbox.com/s/5we2v8t2s0f5qug/Z77MXQUOAOS.H3A.739M.ROM)
-    *   [H3A.723M Mirror](https://web.archive.org/web/20220529043445/https://www.dropbox.com/s/da575evp5obzfnr/Z77MXQUOAOS.H3A.723M.ROM)
+    *   [H3A.739M Mirror](https://www.dropbox.com/s/5we2v8t2s0f5qug/Z77MXQUOAOS.H3A.739M.ROM)
+    *   [H3A.723M Mirror](https://www.dropbox.com/s/da575evp5obzfnr/Z77MXQUOAOS.H3A.723M.ROM)
 
  Downloads
 -
 
-*   [Audio kext ALC892](https://web.archive.org/web/20220529043445/https://www.dropbox.com/s/t57f7ez8dq4zq3n/QUO%20Audio%20Update.pkg) (ONLY kext needed after vanilla install - Not required with H3C.1479 and above)
-*   [QUO Legacy Package](https://web.archive.org/web/20220529043445/https://www.dropbox.com/s/agg3l19occmf50s/QUO_Legacy.08072013.zip)
-*   [DarwinDumper](https://web.archive.org/web/20220529043445/https://bitbucket.org/blackosx/darwindumper/downloads) - Great for when we're trying to help you troubleshoot
+*   [Audio kext ALC892](https://www.dropbox.com/s/t57f7ez8dq4zq3n/QUO%20Audio%20Update.pkg) (ONLY kext needed after vanilla install - Not required with H3C.1479 and above)
+*   [QUO Legacy Package](https://www.dropbox.com/s/agg3l19occmf50s/QUO_Legacy.08072013.zip)
+*   [DarwinDumper](https://bitbucket.org/blackosx/darwindumper/downloads) - Great for when we're trying to help you troubleshoot
 
  Settings
 ---------
@@ -150,7 +150,7 @@ OS X/LINUX
 Fixing iMessage/Back to mac
 ----------------------------
 
-*   For some people iMessage will not function, this is due to the base board serial number not being 17 characters long. I would HIGHLY recommend installing [ChampList](https://web.archive.org/web/20220529043445/http://tools.inmac.org/) (SMBios tab) to generate a new serial number for a MacPro 3,1. Once you have it, you can set it like so:
+*   For some people iMessage will not function, this is due to the base board serial number not being 17 characters long. I would HIGHLY recommend installing [ChampList](http://tools.inmac.org/) (SMBios tab) to generate a new serial number for a MacPro 3,1. Once you have it, you can set it like so:
     *   sudo nvram 4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102:SystemSerial=CK84593EXYL
 *   Then set your baseboard serial number to be 17 characters, something like:
     *   sudo nvram 4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102:BaseBoardSerial=CK84593EXYL123456
