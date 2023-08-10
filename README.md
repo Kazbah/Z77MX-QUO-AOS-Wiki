@@ -179,9 +179,9 @@ Folder structure
 
 /Common (Kernel Extensions goes IN here)
 
-[Start-up HotKeys](https://web.archive.org/web/20220529043445/https://github.com/tuxuser/OzmosisBIOS/blob/master/README)
+[Start-up HotKeys](https://github.com/tuxuser/OzmosisBIOS/blob/master/README)
 
-[List of NVRAM variables](https://web.archive.org/web/20220529043445/https://github.com/tuxuser/OzmosisBIOS/blob/master/README)
+[List of NVRAM variables](https://github.com/tuxuser/OzmosisBIOS/blob/master/README)
 
 Misc
 ----
